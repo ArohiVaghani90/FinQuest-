@@ -50,14 +50,7 @@ FinQuest simulates real-life financial decision-making in a choose-your-path sty
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for details.
 
----
 
-## ✉️ Contact
-
-**Developer:** Hemil Patel  
-🔗 GitHub: [@hemilpatel8182](https://github.com/hemilpatel8182)  
-📧 Email: [hemilpatel8182@gmail.com](mailto:hemilpatel8182@gmail.com)  
-📢 LinkedIn Announcement: [Click here](https://www.linkedin.com/posts/patel--hemil_hawkhack-montclair-msu-activity-7322698660834680832-95Gi)
 
 ---
 
