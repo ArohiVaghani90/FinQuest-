@@ -50,11 +50,6 @@ FinQuest simulates real-life financial decision-making in a choose-your-path sty
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for details.
 
-## ✉️ Contact
-
-**Developer:** Arohi Vaghani 
-🔗 GitHub: [@ArohiVaghani90](https://github.com/ArohiVaghani90)  
-📧 Email: [vaghaniarohi@gmail.com](mailto:vaghaniarohi@gmail.com)  
 
 
 ---
