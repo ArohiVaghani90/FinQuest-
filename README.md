@@ -1,6 +1,6 @@
 # 🏆 FinQuest
 
-[🌐 Live Demo]([https://finquest-k3jo8m3nk-hemil-patels-projects-816e5f52.vercel.app/](https://finquest-nine.vercel.app/)) •
+[🌐 Live Demo][https://finquest-k3jo8m3nk-hemil-patels-projects-816e5f52.vercel.app/](https://finquest-nine.vercel.app/) •
 
 **FinQuest** is a full-stack financial literacy web application that makes learning about personal finance engaging, gamified, and beginner-friendly. It was created as a submission for **HawkHack 2025**, where it earned:
 
