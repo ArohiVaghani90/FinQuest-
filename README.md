@@ -1,6 +1,6 @@
 # 🏆 FinQuest
 
-[🌐 Live Demo](https://finquest-k3jo8m3nk-hemil-patels-projects-816e5f52.vercel.app/) • [📢 LinkedIn Post](https://www.linkedin.com/posts/patel--hemil_hawkhack-montclair-msu-activity-7322698660834680832-95Gi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4Mr-sBrzHmrPphZgKZtpBv_iH0ReqiQrg)
+[🌐 Live Demo]([https://finquest-k3jo8m3nk-hemil-patels-projects-816e5f52.vercel.app/](https://finquest-nine.vercel.app/)) •
 
 **FinQuest** is a full-stack financial literacy web application that makes learning about personal finance engaging, gamified, and beginner-friendly. It was created as a submission for **HawkHack 2025**, where it earned:
 
